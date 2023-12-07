@@ -1,7 +1,7 @@
 ## Holy Family Montessori: Student Record Management System
 
 ### Description
-This project aims to efficiently and effectively manage and organize student-related information of Holy Family Montessori. Specifically, here are the key objectives of this Student Record Management System:  
+This project aims to efficiently and effectively manage and organize student-related information of Holy Family Montessori. Specifically, here are the key objectives of this Student Record Management System:    
 1. To centralize all student-related data, including personal information and grades in a single, secure database.
    a. Allowing faculties and registrar to access the website using their login credentials  
    b. Viewing and Uploading student records.  
