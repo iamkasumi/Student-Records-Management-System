@@ -1,5 +1,41 @@
-# FINAL-SRMS
+## Holy Family Montessori: Student Record Management System
 
+### Description
+This project aims to efficiently and effectively manage and organize student-related information of Holy Family Montessori. Specifically, here are the key objectives of this Student Record Management System:
+1. To centralize all student-related data, including personal information and grades in a single, secure database.
+a. Allowing faculties and registrar to access the website using their login credentials
+b. Viewing and Uploading student records.
+2. To facilitate the efficient and accurate entry of student data, making it easy for administrative staff to update and maintain records.
+a. To ensure the security and privacy of student data through access controls, encryption, and other security measures to comply with data protection regulations.
+
+### SDG
+"Our proposed system is intricately connected to Sustainable Development Goal 8 (SDG 8.2), which seeks to 'Promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all.' Our strategy directly addresses the key components of this goal.
+
+Firstly, by fostering economic diversification, we aim to reduce reliance on a narrow range of industries, thereby contributing to sustained economic growth. Diversification enhances resilience and creates a more stable economic foundation, aligning with the SDG's objective of promoting sustained development.
+
+Secondly, our emphasis on technological upgrading aligns with the goal's call for innovation. By integrating advanced technologies, we strive to enhance productivity across various sectors, ensuring that our economic growth is not only sustained but also technologically progressive.
+
+In summary, our proposed system is designed to achieve higher levels of economic productivity in a manner that aligns with the principles of SDG 8.2, contributing to sustained growth, innovation, and the creation of inclusive and decent employment opportunities."
+
+### Members and their Contributions
+The following are the members of the group alongside their specific percentage of contribution to the project:
+
+Cueto, Erin Alyssa - 20/100 
+Frago, Angel Lloydylene - 17/100
+Luna, Andrei - 23/100
+Villegas, Pamela - 40/100
+
+This is the breakdown of the percentage used:
+
+50% = docu
+50% = system
+
+40 = pam (system)
+23 = andrei (9% docu, 14% system)
+20 = erin (docu)
+17 = angel (5% system, 12% docu)
+
+## GUI
 ### Log In
 ![image](https://github.com/iampamelav/FINAL-SRMS/assets/118470324/8b3b3b55-d9d2-412a-8fbc-a897d3bf62be)
 
