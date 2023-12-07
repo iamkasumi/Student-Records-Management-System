@@ -28,7 +28,7 @@ In summary, our proposed system is designed to achieve higher levels of economic
 The following are the members of the group alongside their specific percentage of contribution to the project:   
 
 Cueto, Erin Alyssa - 20% 
-Frago, Angel Lloydylene - 17%   
+Frago, Angel Lloydylene - 17%      
 Luna, Andrei - 23%  
 Villegas, Pamela - 40%    
 
