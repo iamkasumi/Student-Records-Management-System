@@ -42,11 +42,11 @@ This is the breakdown of the percentage used:
 20 = erin (docu)   
 17 = angel (5% system, 12% docu)   
 
-### Technologies Used
-Software: Web Browsers: Google Chrome
-IDE: Visual Studio Code (HTML, CSS, JavaScript, and PHP)
-Back-End Server: XAMPP Server PHP MyAdmin
-Hardware: Desktop Computer, Laptop and peripherals
+### Technologies Used   
+Software: Web Browsers: Google Chrome   
+IDE: Visual Studio Code (HTML, CSS, JavaScript, and PHP)   
+Back-End Server: XAMPP Server PHP MyAdmin   
+Hardware: Desktop Computer, Laptop and peripherals   
 
 ## GUI
 ### Log In
