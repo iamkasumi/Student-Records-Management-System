@@ -1,0 +1,304 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+/*-----------------STYLING SCROLLBARS---------------*/
+::-webkit-scrollbar {
+    width: 5px;
+    height: 6px;
+}
+  
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #a5aaad;
+    border-radius: 10px;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: rgb(0, 74, 170);
+    border-radius: 10px;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #a5aaad;
+} /*-----------------END OF SCROLLBARS---------------*/
+
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.container {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 0.8fr 1fr 1fr 1fr;
+    grid-template-rows: 0.2fr 3fr;
+    grid-template-areas:
+      "sidebar nav nav nav"
+      "sidebar main main main";
+    /* grid-gap: 0.2rem; */
+}
+
+/*-----------------FOR NAVBARS AT UPPER RIGHT OF CONTAINER---------------*/
+.navbar__left {
+    margin-top: 10px;
+}
+
+.navbar__left > a {
+    margin-left: 30px;
+    text-decoration: none;
+    color: #a5aaad;
+    font-size: 15px;
+    font-weight: 700;
+}
+  
+.navbar__left .active_link {
+    color: #265acc;
+    border-bottom: 3px solid #265acc;
+    padding-bottom: 12px;
+} /*-----------------END OF NAV BAR UPPER---------------*/
+
+main {
+    background: #f3f4f6;
+    grid-area: main;
+    overflow-y: auto;
+}
+
+.main__container {
+    padding: 20px 35px;
+}
+  
+.main__title {
+    display: flex;
+    align-items: center;
+}
+  
+.main__title > img {
+    max-height: 100px;
+    object-fit: contain;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+  
+.main__greeting > h1 {
+    font-size: 30px;
+    color: #2e4a66;
+    margin-bottom: 5px;
+}   /*---------------HELLO MONTESSORIAN------------*/
+  
+.main__greeting > p {
+    font-size: 20px;
+    font-weight: 700;
+    color: #6d7072;
+}   /*---------------WELCOME TO YOUR DASHBOARD------------*/
+  
+.main__cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 30px;
+    margin: 20px 0;
+}
+
+.main__container > p {
+    font-size: 20px;
+    font-weight: bold; 
+    color: #2e4a66;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}   /*----------DASHBOARD--------*/
+
+hr {
+    margin-left: 30px;
+    width: 1080px;
+}
+
+.card {
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 150px;
+    width: 300px;
+    left: 190px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    background: #ffffff;
+    box-shadow: 5px 5px 13px black, -5px -5px 13px #ffffff;
+    animation: zoomIn; 
+    animation-duration:.6s;
+} /*---------------CARDS------------*/
+
+.text-primary-p {
+    color: #6d7072;
+    margin-left: 45px;
+    font-size: 25px;
+    font-weight: 700;
+} /*-----------------CARDS TEXT---------------*/
+  
+.card_inner {
+    padding: 50px;
+}
+
+.card:hover {
+    background-color: rgb(140, 140, 140);
+}
+
+.card_inner:hover > .text-primary-p {
+    color: white;
+}
+
+/*-----------SIDEBAR STARTS HERE-----------------*/
+
+#sidebar {
+    background: rgb(0, 74, 170);
+    grid-area: sidebar;
+    overflow-y: auto;
+    padding: 20px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+  
+.sidebar__title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #f3f4f6;
+    margin-bottom: 30px;
+}
+  
+.sidebar__img {
+    display: flex;
+    align-items: center;
+}
+  
+.sidebar__title > div > img {
+    width: 75px;
+    object-fit: contain;
+}
+  
+.sidebar__title > div > h1 {
+    font-size: 20px;
+    color: white;
+    margin-left: 15px;
+    display: inline;
+}   /*------------------"STUDENT RECORD MANAGEMENT SYSTEM"------------*/
+  
+.sidebar__title > i {
+    font-size: 18px;
+    display: none;
+}
+  
+.sidebar__menu > h2 {
+    color: #83e3dd;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    padding: 0 10px;
+    font-weight: 700;
+}   /*------------------"PROCESS"------------*/
+  
+.sidebar__link {
+    color: #f3f4f6;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}   /*------------------"ICONS"------------*/
+  
+.active_menu_link {
+    background: #03A89E;
+    color: #042b37;
+}   /*------------------"BACKGROUND OF ACTIVE PAGE"------------*/
+  
+.active_menu_link a {
+    color: #042b37 !important;
+}   /*------------------"FONT OF ACTIVE PAGE"------------*/
+  
+.sidebar__link > a {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+}   /*------------------"TEXT OF SIDEBAR"------------*/
+  
+.sidebar__link > i {
+    margin-right: 10px;
+    font-size: 18px;
+}
+  
+.sidebar__logout {
+    margin-top: 5px;
+    padding: 10px;
+    color: #83e3dd;
+}
+  
+.sidebar__logout > a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #83e3dd;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+  
+.sidebar__logout > i {
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.divider {
+    position: relative;
+    right: 20px;
+    width: 230px;
+}
+
+
+/*----------------USER----------------*/
+.sidebar__user {
+    margin-top: 380px;
+    padding: 10px;
+    color: #83e3dd;
+}
+  
+.sidebar__user > a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #83e3dd;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+  
+.sidebar__user > i {
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+/*---------------------HOVERS----------------*/
+.sidebar__logout:hover {
+    background-color: white;
+    color: red;
+    border-radius: 8px;
+    width: 140px;
+}
+
+.sidebar__logout:hover > a {
+    color: red;
+}
+
+.sidebar__link:hover {
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+}
+
+.sidebar__link:hover > a {
+    color: black;
+}
