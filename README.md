@@ -15,25 +15,25 @@ Firstly, by fostering economic diversification, we aim to reduce reliance on a n
 
 Secondly, our emphasis on technological upgrading aligns with the goal's call for innovation. By integrating advanced technologies, we strive to enhance productivity across various sectors, ensuring that our economic growth is not only sustained but also technologically progressive.
 
-In summary, our proposed system is designed to achieve higher levels of economic productivity in a manner that aligns with the principles of SDG 8.2, contributing to sustained growth, innovation, and the creation of inclusive and decent employment opportunities."
+In summary, our proposed system is designed to achieve higher levels of economic productivity in a manner that aligns with the principles of SDG 8.2, contributing to sustained growth, innovation, and the creation of inclusive and decent employment opportunities."   
 
-### Members and their Contributions
-The following are the members of the group alongside their specific percentage of contribution to the project:
+### Members and their Contributions  
+The following are the members of the group alongside their specific percentage of contribution to the project:   
 
-Cueto, Erin Alyssa - 20/100 
-Frago, Angel Lloydylene - 17/100
-Luna, Andrei - 23/100
-Villegas, Pamela - 40/100
+Cueto, Erin Alyssa - 20/100   
+Frago, Angel Lloydylene - 17/100   
+Luna, Andrei - 23/100   
+Villegas, Pamela - 40/100      
 
-This is the breakdown of the percentage used:
+This is the breakdown of the percentage used:   
 
-50% = docu
-50% = system
+50% = docu   
+50% = system   
 
-40 = pam (system)
-23 = andrei (9% docu, 14% system)
-20 = erin (docu)
-17 = angel (5% system, 12% docu)
+40 = pam (system)   
+23 = andrei (9% docu, 14% system)   
+20 = erin (docu)   
+17 = angel (5% system, 12% docu)   
 
 ## GUI
 ### Log In
