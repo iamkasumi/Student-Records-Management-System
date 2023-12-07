@@ -9,7 +9,7 @@ BSIT - 3107
 
 ### Description
 This project aims to efficiently and effectively manage and organize student-related information of Holy Family Montessori. Specifically, here are the key objectives of this Student Record Management System:    
-1. To centralize all student-related data, including personal information and grades in a single, secure database.
+1. To centralize all student-related data, including personal information and grades in a single, secure database.    
    a. Allowing faculties and registrar to access the website using their login credentials  
    b. Viewing and Uploading student records.  
 3. To facilitate the efficient and accurate entry of student data, making it easy for administrative staff to update and maintain records.  
