@@ -34,7 +34,7 @@ Villegas, Pamela - 40/100
 
 This is the breakdown of the percentage used:   
 
-50% = docu   
+50% = documentation   
 50% = system   
 
 40 = pam (system)   
