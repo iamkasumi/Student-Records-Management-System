@@ -1,5 +1,11 @@
 ## Holy Family Montessori: Student Record Management System
 
+FINAL PROJECT: IT 311 - System Administration and Maintenance   
+IT 312 - System Integration and Architecture   
+IT 313 - System Analysis and Design   
+IT 314 - Web Systems and Technologies   
+BSIT - 3107   
+
 ### Description
 This project aims to efficiently and effectively manage and organize student-related information of Holy Family Montessori. Specifically, here are the key objectives of this Student Record Management System:    
 1. To centralize all student-related data, including personal information and grades in a single, secure database.
@@ -34,6 +40,12 @@ This is the breakdown of the percentage used:
 23 = andrei (9% docu, 14% system)   
 20 = erin (docu)   
 17 = angel (5% system, 12% docu)   
+
+### Technologies Used
+Software: Web Browsers: Google Chrome
+IDE: Visual Studio Code (HTML, CSS, JavaScript, and PHP)
+Back-End Server: XAMPP Server PHP MyAdmin
+Hardware: Desktop Computer, Laptop and peripherals
 
 ## GUI
 ### Log In
