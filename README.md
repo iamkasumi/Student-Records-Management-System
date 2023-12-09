@@ -37,10 +37,10 @@ This is the breakdown of the percentage used:
 50% = documentation   
 50% = system   
 
-40 = pam (system)   
-23 = andrei (9% docu, 14% system)   
-20 = erin (docu)   
-17 = angel (5% system, 12% docu)   
+40 = pam (30% system, 10% documentation)   
+25 = andrei (15% system, 10% documentation)   
+20 = erin (20% documentation)   
+15 = angel (5% system, 10% docu)   
 
 ### Technologies Used   
 Software: Web Browsers: Google Chrome   
