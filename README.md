@@ -109,8 +109,8 @@ Password: Andrei_123
 ### Archived Records (Grade 7)
 ![image](https://github.com/iampamelav/FINAL-SRMS/assets/118470324/c58b0f54-b93e-43a8-8c85-1972db6205c2)
 
-Faculty Dashboard
+### Faculty Dashboard
 ![image](https://github.com/iampamelav/FINAL-SRMS/assets/118470324/b730c636-b693-47ab-8439-3db6120c8954)
 
-Faculty Manage Grades
+### Faculty Manage Grades
 ![image](https://github.com/iampamelav/FINAL-SRMS/assets/118470324/f36352a4-28aa-45ff-9f62-c6b40d5b94f5)
