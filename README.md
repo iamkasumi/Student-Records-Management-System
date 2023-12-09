@@ -48,7 +48,7 @@ IDE: Visual Studio Code (HTML, CSS, JavaScript, and PHP)
 Back-End Server: XAMPP Server PHP MyAdmin   
 Hardware: Desktop Computer, Laptop and peripherals   
 
-### Database Accounts   
+### Database Accounts to Test the System    
 #### Admin   
 Email: pam@gmail.com   
 Password: Pamela_123   
