@@ -48,6 +48,15 @@ IDE: Visual Studio Code (HTML, CSS, JavaScript, and PHP)
 Back-End Server: XAMPP Server PHP MyAdmin   
 Hardware: Desktop Computer, Laptop and peripherals   
 
+### Database Accounts   
+#### Admin   
+Email: pam@gmail.com   
+Password: Pamela_123   
+
+#### Faculty   
+Email: andrei@gmail.com   
+Password: Andrei_123   
+
 ## GUI
 ### Log In
 ![image](https://github.com/iampamelav/FINAL-SRMS/assets/118470324/8b3b3b55-d9d2-412a-8fbc-a897d3bf62be)
